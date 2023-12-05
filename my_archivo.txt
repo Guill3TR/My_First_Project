@@ -1,0 +1,7 @@
+pip install jupyter
+
+conda env list
+
+conda create -n myenv python=3.11
+
+control d (cerrar), control l (limpiar), control mayus ñ (nuevo)
