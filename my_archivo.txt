@@ -6,4 +6,8 @@ conda create -n myenv python=3.11
 
 control d (cerrar), control l (limpiar), control mayus ñ (nuevo)
 
-stage, git commit, git push
+# <<<<<<< numpy
+# stage (signo mas), commit, push
+# =======
+# stage, git commit, git push
+# >>>>>>> main
