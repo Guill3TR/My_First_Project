@@ -6,4 +6,4 @@ conda create -n myenv python=3.11
 
 control d (cerrar), control l (limpiar), control mayus ñ (nuevo)
 
-stage (signo mas), commit, push
+stage (signo mas), commit(nuevo punto fuera rama principal), push(introducir a la rama principal)
